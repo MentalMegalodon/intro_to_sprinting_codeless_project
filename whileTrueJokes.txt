@@ -11,6 +11,6 @@ while knkn_list[i].status == "funny":
         jokes.call_911()
         break
     i += 1
-    if (i > len(knkn_list):
+    if i > len(knkn_list):
         break
 
